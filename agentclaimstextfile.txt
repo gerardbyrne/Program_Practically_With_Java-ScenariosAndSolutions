@@ -1,0 +1,12 @@
+200200200
+FL000001
+VE000001
+Vehicle hit a parked car and damaged the wing mirror
+3999.99
+false
+200200201
+IL000001
+RE000001
+Rental apartment water damage
+300.0
+true

@@ -1,0 +1,27 @@
+The employee name is Gerry
+The hours worked are 37.5
+The employee pay amount is 375.0
+The employee name is May
+The hours worked are 40.0
+The employee pay amount is 412.5
+The employee name is Amy
+The hours worked are 50.0
+Contact the Human Resource finance team on extension 3021
+The employee name is Gerry
+The hours worked are 37.5
+The employee pay amount is 375.0
+The employee name is May
+The hours worked are 40.0
+The employee pay amount is 412.5
+The employee name is Amy
+The hours worked are 50.0
+Contact the Human Resource finance team on extension 3021
+The employee name is Gerry
+The hours worked are 37.5
+The employee pay amount is 375.0
+The employee name is May
+The hours worked are 40.0
+The employee pay amount is 412.5
+The employee name is Amy
+The hours worked are 50.0
+Contact the Human Resource finance team on extension 3021

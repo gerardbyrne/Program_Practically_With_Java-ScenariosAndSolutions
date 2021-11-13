@@ -1,0 +1,12 @@
+January - 20000
+February - 30000
+March - 40000
+April - 30000
+May - 20000
+June - 10000
+July - 10000
+August - 12000
+September - 6000
+October - 2000
+November - 5000
+December - 5000

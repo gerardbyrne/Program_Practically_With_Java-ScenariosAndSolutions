@@ -1,0 +1,15 @@
+The first claim has a value of          200.0
+The second claim has a value of         300.0
+The total of the two claims is          500.0
+The average of the two claims is        250.0
+
+The first claim has a value of          1200.0
+The second claim has a value of         1300.0
+The total of the two claims is          2500.0
+The average of the two claims is        1250.0
+
+The first claim has a value of          1000.0
+The second claim has a value of         500.0
+The total of the two claims is          1500.0
+The average of the two claims is        750.0
+
