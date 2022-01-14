@@ -1,4 +1,4 @@
-## Program_Practically_With_Java-ScenariosAndSolutions
+## Program Practically With Java- Scenarios And Solutions
 
 
 The code in this repository relates to the modules of the book, 
@@ -12,7 +12,6 @@ The book is compiled to complement either of the two books:
 The book consists of 100 exercises and accompanying suggested solutions which follow at the end of the 100 exercises. 
 
 The aim is to help you reinforce your Java programming skills and is part of the 'Build your programming muscle series' by the same author which currently includes the books:
-
 
 - PROGRAM PRACTICALLY WITH - JAVA (Eclipse IDE Version)
 
@@ -29,6 +28,3 @@ the book labs and exercises is given within the next page.
 
 The book exercises are aimed at giving you hands on practical programming experience which is essential if you 
 wish to get the best understanding of the Java language. Hands on experience whilst reading this book is the key to success.
-
-
-
