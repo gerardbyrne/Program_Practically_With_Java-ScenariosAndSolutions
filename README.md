@@ -29,7 +29,7 @@ the book labs and exercises is given within the next page.
 The book exercises are aimed at giving you hands on practical programming experience which is essential if you 
 wish to get the best understanding of the Java language. Hands on experience whilst reading this book is the key to success.
 
-[<img src="https://user-images.githubusercontent.com/17484740/149511989-d42f87f9-0940-42a7-b102-c00609c75e73.jpg" width="30%"></img>]( https://www.amazon.co.uk/Program-Practically-Scenarios-Solutions-programming/dp/B09Q1WM2HC/ref=sr_1_4?crid=7KYWW9727KMQ&keywords=Programming+practically&qid=1642159856&sprefix=programming+practically%2Caps%2C61&sr=8-4)
+[Amazon]<img src="https://user-images.githubusercontent.com/17484740/149511989-d42f87f9-0940-42a7-b102-c00609c75e73.jpg" width="30%"></img>( https://www.amazon.co.uk/Program-Practically-Scenarios-Solutions-programming/dp/B09Q1WM2HC/ref=sr_1_4?crid=7KYWW9727KMQ&keywords=Programming+practically&qid=1642159856&sprefix=programming+practically%2Caps%2C61&sr=8-4)
 
 <img src="https://user-images.githubusercontent.com/17484740/149511965-b83af4fb-3ac7-4933-a581-e39d08db1b18.jpg" width="30%"></img> 
 <img src="https://user-images.githubusercontent.com/17484740/149511929-4ede2b01-dca2-45d4-844e-842043c3363d.jpg" width="30%"></img> 
