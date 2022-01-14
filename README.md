@@ -24,7 +24,6 @@ The aim is to help you reinforce your Java programming skills and is part of the
 [<img src="https://user-images.githubusercontent.com/17484740/149511965-b83af4fb-3ac7-4933-a581-e39d08db1b18.jpg" width="30%"></img>](https://www.amazon.co.uk/Program-Practically-Eclipse-Version-programming/dp/B09PMFVB15/ref=sr_1_5?crid=4AYQHLO0M7UZ&keywords=Programming+practically&qid=1642162572&sprefix=programming+practically%2Caps%2C98&sr=8-5)
 [<img src="https://user-images.githubusercontent.com/17484740/149511929-4ede2b01-dca2-45d4-844e-842043c3363d.jpg" width="30%"></img>](https://www.amazon.co.uk/Program-Practically-Eclipse-Version-programming/dp/B09PMFVB15/ref=sr_1_5?crid=2VE0DK1L9GLPD&keywords=Programming+practically&qid=1642162737&sprefix=programming+practically%2Caps%2C103&sr=8-5)
 
-
 The 100 exercises are split into 10 Labs each with 10 exercises and further details of two approaches to using 
 the book labs and exercises is given within the next page. 
 
